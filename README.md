@@ -11,5 +11,5 @@ https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenk
   
 git clone https://github.com/rpods/yt2mp3.git  
 configure yt2mp3.py cookies file to point to the cookies.txt file exported in step 1  
-run yt2mp3.py and input a valid youtube link ex. ([https://](https://www.youtube.com/watch?v=dQw4w9WgXcQ))  
+run yt2mp3.py and input a valid youtube link ex. (https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 direct to an output directory or press enter when prompted to output to execution location  
