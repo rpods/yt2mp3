@@ -2,5 +2,5 @@
 youtube to mp3 converter
 
 requirements:
-yt_dlp
-youtube cookies.txt file
+\nyt_dlp
+\nyoutube cookies.txt file
