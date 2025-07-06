@@ -1,9 +1,10 @@
 import os
 import yt_dlp
 
-def youtube_to_mp3(youtube_url, output_path='.'):
+def youtube_to_mp3(youtube_url, output_path='.', cookies_file='www.youtube.com_cookies.txt'):
     ydl_opts = {
         'format': 'bestaudio/best',
+        'cookies': 'www.youtube.com_cookies.txt',
         'postprocessors': [{
             'key': 'FFmpegExtractAudio',
             'preferredcodec': 'mp3',
