@@ -6,10 +6,10 @@ yt_dlp
 youtube cookies.txt file  
 
 Usage:  
-fetch youtube cookies I used a chrome extension for this found here:  
+1. fetch youtube cookies I used a chrome extension for this found here:  
 https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc  
   
-git clone https://github.com/rpods/yt2mp3.git  
-configure yt2mp3.py cookies file to point to the cookies.txt file exported in step 1  
-run yt2mp3.py and input a valid youtube link ex. (https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
-direct to an output directory or press enter when prompted to output to execution location  
+2. git clone https://github.com/rpods/yt2mp3.git  
+3. configure yt2mp3.py cookies file to point to the cookies.txt file exported in step 1  
+4. run yt2mp3.py and input a valid youtube link ex. (https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+5. direct to an output directory or press enter when prompted to output to execution location  
